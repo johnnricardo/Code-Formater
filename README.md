@@ -23,7 +23,7 @@ Exemplo de sáida:
  
  programa escreve(print) o código no seguinte formato:
  
- ('10',
+ ('10', <br />
   '20')
 
 Depois é perguntado se dejesa fazer nova operação, se deseja sair do programa ou se deseja ver os créditos.
